@@ -12,7 +12,7 @@ This Readme will be completed along the road ...
 - [x] Commitlint ( conventional commits )
 - [x] Lint-staged
 - [x] Cypress / Vitest
-- [ ] Tailwind
+- [x] Tailwind
 - [ ] Github Actions (CI/CD)
 - [ ] Eslint rules ( eslint-plugin-unicorn for example )
 - [ ] Documentation tools
