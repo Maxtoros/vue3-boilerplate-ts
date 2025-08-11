@@ -6,7 +6,17 @@ Using different techniques for enhancing DX, faster and more reliable start of a
 
 This Readme will be completed along the road ...
 
+### Boilerplate checklist
 
+- [x] Git Hooks (Husky)
+- [x] Commitlint ( conventional commits )
+- [x] Lint-staged
+- [x] Cypress / Vitest
+- [ ] Tailwind
+- [ ] Github Actions (CI/CD)
+- [ ] Eslint rules ( eslint-plugin-unicorn for example )
+- [ ] Documentation tools
+- [ ] To be continued ...
 
 This template should help get you started developing with Vue 3 in Vite.
 
